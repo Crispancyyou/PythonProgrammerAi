@@ -21,7 +21,13 @@ An interactive GUI tool that uses OpenAI's GPT API to generate Python programs b
 
 ## Overview
 
-The **AI Python Program Generator** is designed to help you generate Python scripts using natural language descriptions. Simply provide the title, description, inputs, and outputs of the desired program, and the tool leverages an OpenAI GPT model to produce a complete, runnable Python script. The generated program is automatically saved in a designated folder, its dependencies are managed automatically, and it is executed with real-time feedback. If errors occur during execution, you can choose to regenerate the program with the error context passed back to the model for refinement.
+The **AI Python Program Generator** is designed to help you generate Python scripts using natural language descriptions. 
+
+Simply provide the title, description, inputs, and outputs of the desired program, and the tool leverages an OpenAI GPT model to produce a complete, runnable Python script.
+
+The generated program is automatically saved in a designated folder, its dependencies are managed automatically, and it is executed with real-time feedback.
+
+If errors occur during execution of the generated program, you can choose to regenerate the program with the error context passed back to the model for refinement.
 
 ## Features
 
