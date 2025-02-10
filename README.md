@@ -51,8 +51,12 @@ Before using this tool, ensure you meet the following prerequisites:
 
 ## Installation
 
-1. **Clone or Download the Repository:**
+Follow these steps to install and set up the project:
+
+1. **Clone the Repository:**
+
+   Open your terminal and clone the repository using git:
 
    ```bash
-   git clone https://github.com/yourusername/ai-python-program-generator.git
-   cd ai-python-program-generator
+   git clone https://github.com/Crispancyyou/PythonProgrammerAi.git
+   cd PythonProgrammerAi
