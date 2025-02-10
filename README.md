@@ -11,11 +11,6 @@ An interactive GUI tool that uses OpenAI's GPT API to generate Python programs b
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [How It Works](#how-it-works)
-- [Customization](#customization)
-- [Troubleshooting & Logs](#troubleshooting--logs)
-- [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 
 
