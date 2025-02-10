@@ -17,7 +17,7 @@ An interactive GUI tool that uses OpenAI's GPT API to generate Python programs b
 - [Troubleshooting & Logs](#troubleshooting--logs)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
-- [License](#license)
+
 
 ## Overview
 
@@ -66,3 +66,15 @@ Follow these steps to install and set up the project:
    ```bash
    git clone https://github.com/Crispancyyou/PythonProgrammerAi.git
    cd PythonProgrammerAi
+   python AiProgrammer.py
+
+## Disclaimer
+
+- **Beta Software:**  
+  This tool is in beta and is primarily a proof of concept. It may contain bugs or incomplete features and is not yet intended for production use.
+
+- **API Usage:**  
+  Usage of the OpenAI API may incur charges according to your OpenAI pricing plan. Please monitor your API usage accordingly.
+
+- **Generated Code:**  
+  The generated Python code is provided "as-is". Always review and test the code before using it in any critical or production environment.
